@@ -5,6 +5,8 @@
         <directories external="../assets" generated="../generated-assets"/>
     </source>
 
+    <html embed-button="yes" />
+  
     <common>
         <!-- When writing an article for a specific journal, you can   -->
         <!-- specify the name of the journal to get appropriate latex. -->
