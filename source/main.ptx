@@ -6,7 +6,12 @@
     <document-id>authorslastnamelowercase-ShortTitleCamelCase</document-id>
 
     <macros>\newcommand{\foo}{b^{ar}}</macros>
+    <macros>\newcommand{\iy}{\infty}</macros>
+    <macros>\newcommand{\dx}{\operatorname{d}x}</macros>
+
+
     <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
+
   </docinfo>
 
   <article xml:id="shorttitlelowercase">
@@ -14,7 +19,7 @@
 
     <xi:include href="./frontmatter.ptx" />
     
-    <xi:include href="./introduction.ptx" />
+    <xi:include href="./quiz9.ptx" />
     <xi:include href="./section-1.ptx" />
     <xi:include href="./section-2.ptx" />
   </article>
