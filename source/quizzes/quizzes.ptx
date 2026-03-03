@@ -5,11 +5,13 @@
 
     <document-id>authorslastnamelowercase-ShortTitleCamelCase</document-id>
 
-    <macros>\newcommand{\iy}{\infty}</macros>
-    <macros>\newcommand{\dx}{\operatorname{d}x}</macros>
-    <macros>\newcommand{\dt}{\operatorname{d}t}</macros>
-    <macros>\newcommand{\bR}{\mathbb{R}}</macros>
-    <macros>\newcommand{\sR}{\mathcal{R}}</macros>
+    <macros>
+    \newcommand{\iy}{\infty}
+    \newcommand{\dx}{\operatorname{d}x}
+    \newcommand{\dt}{\operatorname{d}t}
+    \newcommand{\bR}{\mathbb{R}}
+    \newcommand{\sR}{\mathcal{R}}
+    </macros>
 
   </docinfo>
   
