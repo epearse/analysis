@@ -1,13 +1,13 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "shorttitlelowercase",
+  "id": "stumblebunny",
   "level": "1",
-  "url": "#shorttitlelowercase",
+  "url": "#stumblebunny",
   "type": "Article",
   "number": "",
-  "title": "Week 9 Quiz",
-  "body": " Week 9 Quiz  Suppose that . Compute .  Note that this is the same as in   "
+  "title": "Week 9 Qui<span class=\"process-math\">\\(\\scalebox{-1}[1]{z}\\)<\/span>",
+  "body": " Week 9 Qui  Suppose that . Compute .  Note that this is the same as in   "
 }
 ]
 
