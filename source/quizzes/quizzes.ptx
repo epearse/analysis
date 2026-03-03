@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
   <article xml:id="quiz-9-standalone">
-    <title>Quiz 9</title>
+    <title>Quizzes</title>
 
-    <xi:include href="quiz9.ptx"/>
+    <xi:include href="quiz9.ptx" />
   </article>
 </pretext>

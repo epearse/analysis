@@ -1,0 +1,12 @@
+<section xml:id="quiz-9">
+
+    <title>Week 9 Qui<m>\scalebox{-1}[1]{z}</m></title>
+    <plaintitle>Week 9 Quiz</plaintitle>
+
+    <p>Suppose that <m>f \in \mathcal{R}[0,1]</m>. Compute <md number="yes" xml:id="limit-integral9">\lim_{n \to \infty} \int_0^1 f(x) x^n dx</md>.</p>
+
+    <p>
+        Note that this is the same as in <xref ref="limit-integral9"/>
+    </p>
+
+</section>
