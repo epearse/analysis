@@ -3,7 +3,11 @@
     <title>Week 8 Quiz</title>
     
     <p>
-        Suppose that
+        Suppose that <m>f:[0,\iy) \to \bR</m> is continuous and satisfies
+        <md>
+            <mrow>\int_0^1 f(xt) \dt = 0, \qquad \forall x >0.</mrow>
+        </md>
+        Prove that <m>f(x) \equiv 0</m>.
     </p>
 
 </section>

@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <article xml:id="quizzes">
+  
+  <docinfo>
+
+    <document-id>authorslastnamelowercase-ShortTitleCamelCase</document-id>
+
+    <macros>\newcommand{\iy}{\infty}</macros>
+    <macros>\newcommand{\dx}{\operatorname{d}x}</macros>
+    <macros>\newcommand{\dt}{\operatorname{d}t}</macros>
+    <macros>\newcommand{\bR}{\mathbb{R}}</macros>
+    <macros>\newcommand{\sR}{\mathcal{R}}</macros>
+
+  </docinfo>
+  
+  <article xml:id="all-quizzes">
     <title>Quizzes</title>
 
-    <xi:include href="quiz8.ptx" />
-    <xi:include href="quiz9.ptx" />
+    <xi:include href="./quiz8.ptx" />
+    <xi:include href="./quiz9.ptx" />
 
   </article>
 </pretext>
